@@ -15,13 +15,13 @@
 *The system detects the food item (e.g., Avial) and retrieves the corresponding macronutrients.*
 
 ![Main Interface](screenshots/Idli_4.jpg) 
-*(Replace 'your_avial_image.jpg' with the actual filename of your working screenshot)*
+
 
 ### 2. Detailed Nutritional Breakdown
 *A pandas-based breakdown of Calories, Protein, Carbs, and Fats.*
 
 ![Results Table](screenshots/Result.png)
-*(Replace 'your_results_image.jpg' with the screenshot of the table output)*
+
 
 ---
 
