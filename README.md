@@ -58,6 +58,6 @@ AI Nutrition Assistant/
 └── README.md                # Documentation
 ```
 **Arijeet Dutta**
-Engineer
+*Engineering Graduate*
 Email : arijeetdutta501@gmail.com
 [LinkedIn](https://www.linkedin.com/in/arijeetd/)
